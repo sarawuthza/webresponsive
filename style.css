@@ -1,0 +1,16 @@
+
+#lift {
+	margin:0px;
+	background-color:#81D4FA;
+	color: #000 solid;
+	font-family: serif;
+}
+.footer {
+	max-width: 100%;
+	height: 200px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 80px;
+	background-color: #212121;
+	color: #fff;
+}
